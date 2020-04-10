@@ -12,7 +12,7 @@
 * [Руководство по установке IntelliJ IDEA](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/idea.md)
 
 
-В качестве тестовых данных использовались данные:
+В качестве источника тестовых данных использовались данные сайта https://www.kobzarev.com/other/testoviye-nomera-kreditnyh-kart/ и тестового примера. Использовались следующие значения:
 * 1234567890123456
 * 1234567890123457
 * 1234567890123458
